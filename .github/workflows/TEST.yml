@@ -27,3 +27,4 @@ jobs:
             run: |
               docker build . --tag ghcr.io/godaria951/store:latest
               docker push ghcr.io/godaria951/store:latest
+            
